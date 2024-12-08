@@ -1,4 +1,4 @@
-Contributions by Team Members
+------------Contributions by Team Members------------
 
 Simran Gill
 •	Developed load_data function - allows of reading through files to load images into arrays
