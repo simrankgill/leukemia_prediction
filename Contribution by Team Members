@@ -1,0 +1,16 @@
+Contributions by Team Members
+
+Simran Gill
+•	Developed load_data function - allows of reading through files to load images into arrays
+•	Exploratory Data Analysis – displaying images by Cancer or Normal cells for comparison 
+•	Pre-processing – Contributions to pre-processing data, rescale, data-split
+•	Augmentation – testing different augmentation for train set to help with model improvements
+•	Fine tuning model – tried different models to see if accuracy increases without overfitting
+•	Model evaluation – precision, recall, and confusion matrix 
+
+Erica Robeen
+
+Mauricio Perez
+
+Chris John 
+
