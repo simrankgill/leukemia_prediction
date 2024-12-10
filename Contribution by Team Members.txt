@@ -9,6 +9,8 @@ Simran Gill
 •	Model evaluation – precision, recall, and confusion matrix 
 
 Erica Robeen
+*Built an initial 3 layer CNN model that team iterated on and improved (from loading data to the fine-tuned model)
+*Contributed to slides
 
 Mauricio Perez
 •	Edited some functions (load_data, augment_data and splitting data in training and validation)
