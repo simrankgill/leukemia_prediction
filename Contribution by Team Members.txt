@@ -9,8 +9,8 @@ Simran Gill
 •	Model evaluation – precision, recall, and confusion matrix 
 
 Erica Robeen
-*Built an initial 3 layer CNN model that team iterated on and improved (from loading data, EDA, to the fine-tuned model)
-*Contributed to slides
+•Built an initial 3 layer CNN model that team iterated on and improved (from loading data, EDA, to the fine-tuned model)
+•Contributed to slides
 
 Mauricio Perez
 •	Edited some functions (load_data, augment_data and splitting data in training and validation)
@@ -18,5 +18,11 @@ Mauricio Perez
 •	Created a few experiments based on the baseline model and fine-tuned model to test different hyperparameters
 •	Made a baseline deck for sharing results and methodology
 •	Did background research on models and other methodologies previous people have done
+
 Chris John 
+•Helped identify dataset and topic of evaluation
+•Contributed to Exploratory Data Analysis – displaying images by Cancer or Normal cells for comparison
+•Attempted different approach to Pre-processing – pre-processing data, rescale, data-split
+•Fine tuning model – tried different models to see if accuracy increases without overfitting
+•Contributed to slides
 
