@@ -13,6 +13,8 @@ Erica Robeen
 Mauricio Perez
 •	Edited some functions (load_data, augment_data and splitting data in training and validation)
 •	Created a few visuals for images and data
-•	Created a few experiments based on the baseline model and fine-tuned model to test different hyperparameter
+•	Created a few experiments based on the baseline model and fine-tuned model to test different hyperparameters
+•	Made a baseline deck for sharing results and methodology
+•	Did background research on models and other methodologies previous people have done
 Chris John 
 
