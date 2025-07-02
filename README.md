@@ -8,10 +8,8 @@ Among children, Acute Lymphoblastic Leukemia (ALL) is one of the most common can
 Task: Build an image classification model to distinguish between normal and leukemic blood cells using microscopic cell images.
 
 ### Data Source
-The dataset used for this project is available on Kaggle:
-
-### Leukemia Classification Dataset
-It consists of microscopic images labeled as either normal or leukemia cells.
+The dataset used for this project is available on Kaggle: https://www.kaggle.com/datasets/andrewmvd/leukemia-classification
+* It consists of microscopic images labeled as either normal or leukemia cells.
 
 ### Objectives
 * Develop a Convolutional Neural Network (CNN) to classify microscopic cell images.
